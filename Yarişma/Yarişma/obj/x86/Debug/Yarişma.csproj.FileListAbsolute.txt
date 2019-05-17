@@ -1,0 +1,8 @@
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\bin\Debug\Yarişma.exe
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\bin\Debug\Yarişma.pdb
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\obj\x86\Debug\Yarişma.Form1.resources
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\obj\x86\Debug\Yarişma.Properties.Resources.resources
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\obj\x86\Debug\Yarişma.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\obj\x86\Debug\Yarişma.exe
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\obj\x86\Debug\Yarişma.pdb
+C:\Users\Burak\Desktop\C#\c# dersleri\Yarişma\Yarişma\obj\x86\Debug\Yarişma.csprojResolveAssemblyReference.cache
